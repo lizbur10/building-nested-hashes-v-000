@@ -21,7 +21,7 @@ def third_challenge
         {}
         {}
       ]
-   }, 
+   },
    :capulet => {
       :patriarch => {
         #your key/value pairs here
@@ -36,5 +36,5 @@ def third_challenge
    }
   }
 
-  
+
 end
